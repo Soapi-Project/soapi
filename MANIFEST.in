@@ -1,0 +1,5 @@
+include README.md LICENSE
+include readme_pics
+include setup.py
+include requirements.txt
+recursive-include soapi *.py
