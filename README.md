@@ -11,7 +11,7 @@ The **soapi package** stores most of the generic functions data scientists use s
 ## Installation
 soapi is built to use pandas DataFrames and some scikit-learn modules for data preprocessing. We recommend installing the [Anaconda Python distribution](https://www.anaconda.com/products/distribution) prior to installing soapi. <br>
 
-Link to soapi: https://test.pypi.org/project/soapi/
+Link to soapi: https://test.pypi.org/project/soapii/0.1.0/
 
 ### Dependencies <br> 
 Requirements: <br>

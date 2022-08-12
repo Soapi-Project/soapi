@@ -14,7 +14,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 # This call to setup() does all the work
 setup(
-    name="soapi",
+    name="soapii",
     version="0.1.0",
     description="Auto cleans csv data for machine learning",
     long_description=long_description,
